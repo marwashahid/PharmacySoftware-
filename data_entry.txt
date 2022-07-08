@@ -1,0 +1,5 @@
+ID	Name	       Price	StockRemaining	
+11225	Brufen	        34	41
+33445	Bricksin	34	32	
+90900	Disprin	        23	34	
+12123	Augmentin	67	89	
